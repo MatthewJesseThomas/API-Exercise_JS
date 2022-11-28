@@ -12,13 +12,13 @@
             "ID": 345671289,
             "Brand": "Dell",
             "SerialNumber": 987654321123456789,
-            "Username":"Jupyt3r",
+            "Username":"Jupyter",
             "IpAddress":"100.123.456.789",
             "MacAddress":"00:12:8e:00:48:qF"
         },
         {
             "ID": 123678945,
-            "Brand": "Accer",
+            "Brand": "Acer",
             "SerialNumber": 789987651234564321,
             "Username":"Br4veH3art",
             "IpAddress":"100.123.456.789",
