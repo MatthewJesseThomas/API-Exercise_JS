@@ -1,0 +1,28 @@
+{
+    "eventualities":[
+        {
+            "ID": 123456789,
+            "Brand": "Lenovo",
+            "SerialNumber": 123456789987654321,
+            "Username":"MattR3ign",
+            "IpAddress":"100.123.456.789",
+            "MacAddress":"01:00:5e:00:53:af"
+        },
+        {
+            "ID": 345671289,
+            "Brand": "Dell",
+            "SerialNumber": 987654321123456789,
+            "Username":"Jupyt3r",
+            "IpAddress":"100.123.456.789",
+            "MacAddress":"00:12:8e:00:48:qF"
+        },
+        {
+            "ID": 123678945,
+            "Brand": "Accer",
+            "SerialNumber": 789987651234564321,
+            "Username":"Br4veH3art",
+            "IpAddress":"100.123.456.789",
+            "MacAddress":"32:00:5e:11:53:jt"
+        }
+    ]
+}
